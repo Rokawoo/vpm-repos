@@ -1,0 +1,20 @@
+{
+    "name":"RΩKΔ's VPM Packages",
+    "id":"com.github.rokawoo.vpm",
+    "url":"https://rokawoo.github.io/vpm-repos/vpm.json",
+    "author":{
+        "name":"rokawoo",
+        "url":"https://github.com/rokawoo"
+    },
+    "description":"Tools for VRChat",
+    "infoLink":{
+        "url":"http://github.com/rokawoo/vpm-repos",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "rokawoo/VRCAnimationPropertyRenamer"
+    ],
+    "packages":[
+    ]
+}
